@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "d5ccb08e66aa3b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d084fe39f0549c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1d6d0a7a05fae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прога/Docker/Контейнеры и образы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Контейнеры и образы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7dc646d53657683",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde45a29d2c64886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b967ca4db18eade4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "26a6d5ad340a8aae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ba4449115735aef6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "f23360e053f5c501",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f7f1b15d6ccf9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c316d225c5910d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "84e5ef4c2a338870",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "7def567063a50221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "95dd5d284a8f067e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1614c70494cf1399",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "8404bae1b119ee30",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "aa6f82a6732e1ba1",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "QUICKSHARE_SIDE_VIEW"
+            }
+          },
+          {
+            "id": "ef151762d04c7322",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "QUICKSHARE_SIDE_VIEW"
+            }
+          },
+          {
+            "id": "44633ced46be3105",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "QUICKSHARE_SIDE_VIEW"
+            }
+          },
+          {
+            "id": "8fbdccf250c36531",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9c1d6d0a7a05fae4",
+  "lastOpenFiles": [
+    "Прога/Docker/Команды Docker.md",
+    "Прога/Docker/Контейнеры и образы.md",
+    "_Resours/{2EF29111-3249-407B-AED1-5AA7CC7BDD54}.png",
+    "_Resours/{0BFDD9D3-14ED-4A78-992F-BEAAB7F53AD3}.png",
+    "_Resours/{8B780934-20F8-47AF-8734-6710D0DFDA83}.png",
+    "Прога/FreeRTOS/Оценка производительности FreeRTOS.md",
+    "Прога/Docker",
+    "Прога/FreeRTOS/Макросы FreeRTOS.md",
+    "_Resours/{B4BC2822-D912-4225-AC53-FD30DC0E6175}.png",
+    "_Resours/{77B25494-F862-4A1A-A0D3-2C0F1E8EB7BD}.png",
+    "_Resours/{E7A4D266-68A4-4CCF-99F1-723DB0BBC6A9}.png",
+    "_Resours/{D8C515E4-D97D-4914-BD51-680325D3783D}.png",
+    "_Resours/{974079B7-EE05-47CC-B20C-5C14E47CA11A}.png",
+    "_Resours/{F001A184-0DF1-4D60-96C1-934FB42D94D2}.png",
+    "_Resours/{B2433344-3158-47AE-82D4-73BBE432EBED}.png",
+    "Прога/FreeRTOS/Потокобезопасность FreeRTOS.md",
+    "Прога/МПС/Многопоточность и ассинхронность/Многопоточность и асинхронность.md",
+    "Прога/Machine Learning/Введение/Виды машинного обучения/Обучение с подкреплением.md",
+    "Прога/FreeRTOS/Обработка прерываний FreeRTOS.md",
+    "Прога/FreeRTOS/Нотификация FreeRTOS.md",
+    "Прога/FreeRTOS/События FreeRTOS.md",
+    "Прога/FreeRTOS/Семафоры FreeRTOS.md",
+    "Прога/FreeRTOS/Управление питанием FreeRTOS.md",
+    "Прога/FreeRTOS/Управление очередями FreeRTOS.md",
+    "Прога/FreeRTOS/Программные таймеры FreeRTOS.md",
+    "Прога/FreeRTOS/Введение FreeRTOS.md",
+    "Прога/FreeRTOS/Управление памятью FreeRTOS.md",
+    "Прога/FreeRTOS/Задачи FreeRTOS.md",
+    "Прога/FreeRTOS/Управление задачами в FreeRTOS.md",
+    "Прога/МПС/Алгоритмы/Сортировки/Сортировка кучей.md",
+    "Прога/FreeRTOS",
+    "Прога/C и C++/Типы и структуры данных/Static в C и C++.md",
+    "Прога/МПС/Многопоточность и ассинхронность/Механизмы многопоточности.md",
+    "Прога/МПС/Алгоритмы/Сортировки/Сортировка вставками.md",
+    "Прога/МПС/Алгоритмы/Сортировки/Сортировка выбором.md",
+    "Прога/МПС/Алгоритмы/Сортировки/Сортировка пузырьком.md",
+    "Прога/C и C++/Разное/Директивы препроцессора.md",
+    "Прога/МПС/Алгоритмы/Сортировки",
+    "Прога/МПС/Алгоритмы/Асимптотическая оценка",
+    "Прога/МПС/Структуры данных/Графы",
+    "Прога/МПС/Алгоритмы",
+    "Прога/МПС/Структуры данных/Деревья",
+    "Прога/C и C++/Разное",
+    "Прога/C и C++/Многопоточность и асинхронность",
+    "Прога/C и C++/STL C++/Без названия",
+    "Без названия.canvas"
+  ]
+}
