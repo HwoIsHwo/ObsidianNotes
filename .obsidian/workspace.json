@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прога/Docker/Контейнеры и образы.md",
+                "file": "Прога/Docker/Deploy в Dockerhub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Контейнеры и образы"
+              "title": "Deploy в Dockerhub"
             }
           }
         ]
@@ -235,8 +235,17 @@
   },
   "active": "9c1d6d0a7a05fae4",
   "lastOpenFiles": [
-    "Прога/Docker/Команды Docker.md",
+    "Прога/Docker/Docker compose.md",
+    "Прога/Docker/Deploy в Dockerhub.md",
+    "_Resours/{2478F1B0-03C9-420F-B82F-1497AD2A691D}.png",
+    "_Resours/{B7F57979-2DE2-429C-B727-ADC4F4C5233E}.png",
+    "_Resours/{72B91680-B6A0-4F5F-A9E5-7C69722331ED}.png",
+    "Прога/Docker/Dockerfile и образы.md",
     "Прога/Docker/Контейнеры и образы.md",
+    "Прога/Docker/Команды Docker.md",
+    "_Resours/{CE080BF8-3D08-4E43-B433-16EC19E54BC9}.png",
+    "_Resours/{E03B6E98-D518-46D8-AFA7-BCB7CCE124DD}.png",
+    "_Resours/{E8A229FC-FB1F-439E-8986-C8A61A0549DE}.png",
     "_Resours/{2EF29111-3249-407B-AED1-5AA7CC7BDD54}.png",
     "_Resours/{0BFDD9D3-14ED-4A78-992F-BEAAB7F53AD3}.png",
     "_Resours/{8B780934-20F8-47AF-8734-6710D0DFDA83}.png",
@@ -244,12 +253,6 @@
     "Прога/Docker",
     "Прога/FreeRTOS/Макросы FreeRTOS.md",
     "_Resours/{B4BC2822-D912-4225-AC53-FD30DC0E6175}.png",
-    "_Resours/{77B25494-F862-4A1A-A0D3-2C0F1E8EB7BD}.png",
-    "_Resours/{E7A4D266-68A4-4CCF-99F1-723DB0BBC6A9}.png",
-    "_Resours/{D8C515E4-D97D-4914-BD51-680325D3783D}.png",
-    "_Resours/{974079B7-EE05-47CC-B20C-5C14E47CA11A}.png",
-    "_Resours/{F001A184-0DF1-4D60-96C1-934FB42D94D2}.png",
-    "_Resours/{B2433344-3158-47AE-82D4-73BBE432EBED}.png",
     "Прога/FreeRTOS/Потокобезопасность FreeRTOS.md",
     "Прога/МПС/Многопоточность и ассинхронность/Многопоточность и асинхронность.md",
     "Прога/Machine Learning/Введение/Виды машинного обучения/Обучение с подкреплением.md",
@@ -270,8 +273,6 @@
     "Прога/МПС/Многопоточность и ассинхронность/Механизмы многопоточности.md",
     "Прога/МПС/Алгоритмы/Сортировки/Сортировка вставками.md",
     "Прога/МПС/Алгоритмы/Сортировки/Сортировка выбором.md",
-    "Прога/МПС/Алгоритмы/Сортировки/Сортировка пузырьком.md",
-    "Прога/C и C++/Разное/Директивы препроцессора.md",
     "Прога/МПС/Алгоритмы/Сортировки",
     "Прога/МПС/Алгоритмы/Асимптотическая оценка",
     "Прога/МПС/Структуры данных/Графы",
