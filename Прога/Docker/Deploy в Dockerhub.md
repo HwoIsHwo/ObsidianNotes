@@ -31,6 +31,6 @@ docker push <image name>:<version>
 
 Теги: #Прога 
 Ссылки:
-[[Контейнеры и образы]]
+[[Контейнеры и образы Docker]]
 [[Команды Docker]]
 [[Dockerfile и образы]]

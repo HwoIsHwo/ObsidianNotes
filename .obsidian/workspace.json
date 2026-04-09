@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прога/Docker/Deploy в Dockerhub.md",
+                "file": "Прога/Gtest and Gmock/Использование gmock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Deploy в Dockerhub"
+              "title": "Использование gmock"
             }
           }
         ]
@@ -235,13 +235,23 @@
   },
   "active": "9c1d6d0a7a05fae4",
   "lastOpenFiles": [
-    "Прога/Docker/Docker compose.md",
+    "Прога/Gtest and Gmock/Написание тестов gtest. Fixture.md",
+    "Прога/Gtest and Gmock/Использование gmock.md",
+    "Прога/Gtest and Gmock/Написание unit тестов gtest.md",
+    "Прога/Docker/Контейнеры и образы Docker.md",
+    "Прога/Gtest and Gmock/Введение gtest.md",
+    "Прога/Docker/Docker volumes.md",
+    "Прога/Gtest and Gmock",
+    "Прога/Без названия.md",
+    "_Resours/Pasted image 20260408215059.png",
+    "Прога/Git/Работа с удаленным репозиторием.md",
     "Прога/Docker/Deploy в Dockerhub.md",
+    "Прога/Git",
+    "Прога/Docker/Docker compose.md",
     "_Resours/{2478F1B0-03C9-420F-B82F-1497AD2A691D}.png",
     "_Resours/{B7F57979-2DE2-429C-B727-ADC4F4C5233E}.png",
     "_Resours/{72B91680-B6A0-4F5F-A9E5-7C69722331ED}.png",
     "Прога/Docker/Dockerfile и образы.md",
-    "Прога/Docker/Контейнеры и образы.md",
     "Прога/Docker/Команды Docker.md",
     "_Resours/{CE080BF8-3D08-4E43-B433-16EC19E54BC9}.png",
     "_Resours/{E03B6E98-D518-46D8-AFA7-BCB7CCE124DD}.png",
@@ -252,7 +262,6 @@
     "Прога/FreeRTOS/Оценка производительности FreeRTOS.md",
     "Прога/Docker",
     "Прога/FreeRTOS/Макросы FreeRTOS.md",
-    "_Resours/{B4BC2822-D912-4225-AC53-FD30DC0E6175}.png",
     "Прога/FreeRTOS/Потокобезопасность FreeRTOS.md",
     "Прога/МПС/Многопоточность и ассинхронность/Многопоточность и асинхронность.md",
     "Прога/Machine Learning/Введение/Виды машинного обучения/Обучение с подкреплением.md",
@@ -265,22 +274,13 @@
     "Прога/FreeRTOS/Программные таймеры FreeRTOS.md",
     "Прога/FreeRTOS/Введение FreeRTOS.md",
     "Прога/FreeRTOS/Управление памятью FreeRTOS.md",
-    "Прога/FreeRTOS/Задачи FreeRTOS.md",
-    "Прога/FreeRTOS/Управление задачами в FreeRTOS.md",
-    "Прога/МПС/Алгоритмы/Сортировки/Сортировка кучей.md",
     "Прога/FreeRTOS",
-    "Прога/C и C++/Типы и структуры данных/Static в C и C++.md",
-    "Прога/МПС/Многопоточность и ассинхронность/Механизмы многопоточности.md",
-    "Прога/МПС/Алгоритмы/Сортировки/Сортировка вставками.md",
-    "Прога/МПС/Алгоритмы/Сортировки/Сортировка выбором.md",
     "Прога/МПС/Алгоритмы/Сортировки",
     "Прога/МПС/Алгоритмы/Асимптотическая оценка",
     "Прога/МПС/Структуры данных/Графы",
     "Прога/МПС/Алгоритмы",
     "Прога/МПС/Структуры данных/Деревья",
     "Прога/C и C++/Разное",
-    "Прога/C и C++/Многопоточность и асинхронность",
-    "Прога/C и C++/STL C++/Без названия",
     "Без названия.canvas"
   ]
 }
