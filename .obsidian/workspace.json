@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прога/Gtest and Gmock/Использование gmock.md",
+                "file": "Прога/Системы сборки/Использование Artifactory с Ant и Ivy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Использование gmock"
+              "title": "Использование Artifactory с Ant и Ivy"
             }
           }
         ]
@@ -235,14 +235,25 @@
   },
   "active": "9c1d6d0a7a05fae4",
   "lastOpenFiles": [
-    "Прога/Gtest and Gmock/Написание тестов gtest. Fixture.md",
-    "Прога/Gtest and Gmock/Использование gmock.md",
-    "Прога/Gtest and Gmock/Написание unit тестов gtest.md",
-    "Прога/Docker/Контейнеры и образы Docker.md",
-    "Прога/Gtest and Gmock/Введение gtest.md",
-    "Прога/Docker/Docker volumes.md",
-    "Прога/Gtest and Gmock",
+    "Прога/Системы сборки/Установка Ant и Ivy.md",
+    "Прога/Системы сборки/Использование Artifactory с Ant и Ivy.md",
+    "Прога/Системы сборки/Ant и Ivy.md",
+    "Прога/Тестирование/Mock и Fake объекты в тестировании.md",
+    "Прога/Системы сборки",
     "Прога/Без названия.md",
+    "Прога/Тестирование/TDD подход к написанию кода.md",
+    "Прога/Тестирование/Unit тестирование.md",
+    "Прога/Тестирование/Gtest and Gmock/Синтаксис gtest.md",
+    "Прога/Тестирование/Gtest and Gmock/Использование gmock.md",
+    "Прога/Тестирование",
+    "Прога/Тестирование/Gtest and Gmock/Введение gtest.md",
+    "Прога/Тестирование/Gtest and Gmock/Параметризированные тесты gtest.md",
+    "Прога/Тестирование/Gtest and Gmock/Советы gtest.md",
+    "Прога/Тестирование/Gtest and Gmock/Написание тестов gtest. Fixture.md",
+    "Прога/Тестирование/Gtest and Gmock/Написание unit тестов gtest.md",
+    "Прога/Docker/Контейнеры и образы Docker.md",
+    "Прога/Docker/Docker volumes.md",
+    "Прога/Тестирование/Gtest and Gmock",
     "_Resours/Pasted image 20260408215059.png",
     "Прога/Git/Работа с удаленным репозиторием.md",
     "Прога/Docker/Deploy в Dockerhub.md",
@@ -265,22 +276,11 @@
     "Прога/FreeRTOS/Потокобезопасность FreeRTOS.md",
     "Прога/МПС/Многопоточность и ассинхронность/Многопоточность и асинхронность.md",
     "Прога/Machine Learning/Введение/Виды машинного обучения/Обучение с подкреплением.md",
-    "Прога/FreeRTOS/Обработка прерываний FreeRTOS.md",
-    "Прога/FreeRTOS/Нотификация FreeRTOS.md",
-    "Прога/FreeRTOS/События FreeRTOS.md",
-    "Прога/FreeRTOS/Семафоры FreeRTOS.md",
-    "Прога/FreeRTOS/Управление питанием FreeRTOS.md",
-    "Прога/FreeRTOS/Управление очередями FreeRTOS.md",
-    "Прога/FreeRTOS/Программные таймеры FreeRTOS.md",
-    "Прога/FreeRTOS/Введение FreeRTOS.md",
-    "Прога/FreeRTOS/Управление памятью FreeRTOS.md",
     "Прога/FreeRTOS",
     "Прога/МПС/Алгоритмы/Сортировки",
     "Прога/МПС/Алгоритмы/Асимптотическая оценка",
     "Прога/МПС/Структуры данных/Графы",
     "Прога/МПС/Алгоритмы",
-    "Прога/МПС/Структуры данных/Деревья",
-    "Прога/C и C++/Разное",
     "Без названия.canvas"
   ]
 }

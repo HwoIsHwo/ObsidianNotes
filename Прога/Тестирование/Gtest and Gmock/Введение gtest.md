@@ -1,8 +1,6 @@
-# Введение в gtest/gmock
-
 ## Общая идея unit-тестирования
 Unit-тестирование — это проверка отдельных модулей (функций, классов) в изоляции от остальной системы. Цель — гарантировать корректность поведения и упростить отладку. В C++ для этого широко используется связка **Google Test (gtest)** и **Google Mock (gmock)**.
-Фреймворк тестирования реализует подход xUnit: тесты описываются декларативно и выполняются автоматически, с генерацией отчётов о прохождении или падении тестов ([TutorialsPoint](https://www.tutorialspoint.com/gtest/gtest-quick-guide.htm?utm_source=chatgpt.com "GoogleTest - Quick Guide")).
+Фреймворк тестирования реализует подход xUnit: тесты описываются декларативно и выполняются автоматически, с генерацией отчётов о прохождении или падении тестов.
 
 
 ---
@@ -74,11 +72,11 @@ TEST_F(MyTest, Example) {
 ---
 ## Google Mock (gmock)
 gmock — это библиотека для создания mock-объектов, которая используется совместно с gtest.
-Ключевая идея: заменить реальные зависимости (БД, сеть, железо) на управляемые объекты, чтобы тестировать модуль изолированно ([Stack Overflow](https://stackoverflow.com/questions/13696376/what-is-the-difference-between-gtest-and-gmock?utm_source=chatgpt.com "c++ - What is the difference between gtest and gmock? - Stack Overflow")).
+Ключевая идея: заменить реальные зависимости (БД, сеть, железо) на управляемые объекты, чтобы тестировать модуль изолированно.
 Mock-объект:
 - реализует тот же интерфейс, что и реальный объект
 - позволяет задать ожидаемое поведение
-- проверяет, как код взаимодействует с зависимостями ([Google](https://google.github.io/googletest/gmock_for_dummies.html?utm_source=chatgpt.com "gMock for Dummies | GoogleTest"))
+- проверяет, как код взаимодействует с зависимостями
 
 ### Когда нужен gmock
 Используется, если:
@@ -123,7 +121,7 @@ TEST(MyTest, UsesMock) {
 ## Отличие gtest и gmock
 - gtest — тестовый фреймворк (запуск, assertions)
 - gmock — инструмент для имитации зависимостей
-gmock не является самостоятельным тестовым фреймворком, а расширяет возможности gtest ([Stack Overflow](https://stackoverflow.com/questions/13696376/what-is-the-difference-between-gtest-and-gmock?utm_source=chatgpt.com "c++ - What is the difference between gtest and gmock? - Stack Overflow")).
+gmock не является самостоятельным тестовым фреймворком, а расширяет возможности gtest.
 
 
 ---
