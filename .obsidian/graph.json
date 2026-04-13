@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "#СовременныеОС",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
     }
   ],
   "collapse-display": true,
@@ -79,8 +86,8 @@
   "collapse-forces": true,
   "centerStrength": 0.348958333333333,
   "repelStrength": 10.9375,
-  "linkStrength": 0.765625,
-  "linkDistance": 187,
+  "linkStrength": 1,
+  "linkDistance": 143,
   "scale": 0.11660891579457666,
-  "close": true
+  "close": false
 }
